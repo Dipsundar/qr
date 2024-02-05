@@ -10,6 +10,6 @@
 - Css
 - Javascript
 
-### [Click here to see the project demo]()
+### [Click here to see the project demo](https://dipsundar.github.io/Javascript-mini-project-8---QR-code-generator-app/)
 
 [api link](https://goqr.me/api/)

@@ -125,7 +125,7 @@ body {
 
 @media screen and (max-width: 700px) {
   .container {
-    width: 300px;
+    width: 70vw;
     padding: 25px 35px;
     position: absolute;
     top: 50%;

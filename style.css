@@ -13,6 +13,7 @@ body {
 
 /* container  */
 .container {
+  margin: 2px 5px;
   width: 400px;
   padding: 25px 35px;
   position: absolute;
@@ -125,13 +126,6 @@ body {
 
 @media screen and (max-width: 700px) {
   .container {
-    width: 70vw;
-    padding: 25px 35px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background: #fff;
-    border-radius: 10px;
+    width: 300px;
   }
 }
